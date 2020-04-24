@@ -1,6 +1,6 @@
 FROM alpine:latest
 LABEL maintainer="ztgoto"
-ENV ETCD_VERSION=v3.4.7
+ARG ETCD_VERSION=v3.4.7
 
 RUN mkdir /etcd \
 && wget https://github.com/etcd-io/etcd/releases/download/${ETCD_VERSION}/etcd-${ETCD_VERSION}-linux-amd64.tar.gz -O /etcd/etcd-${ETCD_VERSION}-linux-amd64.tar.gz \
