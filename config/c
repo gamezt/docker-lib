@@ -1,0 +1,7 @@
+{
+  "pub_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC89j7a46vO4luhlvAnsb+CxWTcMBQT9Vhf0rgkYGh9rPV5yPGQE+mnNPRoPJECmDyNMal2YuZvhQdZqHUdcxyR0+Y7YBSpPYAHisPppAGlGxycSGOwBCG3EWJH73/+3LiRMAMEvi8UrpMX+JcgUWAoY2NAiAdgy43gCdS31lQfYCp4AH6agxlTajQdg1PoqN2xCnjV84pBHP4+/PEIRVoYmX7XRG5umfDR+lJDuGbJJM5JDZ0DqF+b6fkvvUaqvJakMP/V8urMv0t173nRQz2cDBrZQky4zC59tTES+LDg66LVeI3BisJJ4hAwcf+BuFUVklnk9gjE91mKS2w5MqDDn3kbY+Pdq//kgoIch+FSPvES4097sxj+Wi1vHrhkwYaymMCKnOTSShIAadEqqkYkWWEg2dEcFncFcUmif5EY7k/ykP8zicdLqNdsxpbAL2Rm8W3PG/Ih4N4hQBvwp91R4cDsu43A6+SAtUsaa+qoG7pFpOVsjPL4vuZYF+jRvR0Y4zLW/hQudxmGBpNEqMxgNuwUlYcXD5opFO/JuJKiwEaWa9GQc2bjtaIyBqgsKcoy5gvffMeLExmEB/wgSiraB0cFnmkbOgx0D0qXaJ6DhuCPBGfd3Jru3hAaI5YgdYAxUwYxDgaO12IDq/6nIFPW059CANck1hcw8ohgEQRlvQ=="
+  ],
+  "pub_key_file_path": "/etc/ssh/authorized_keys",
+  "check_interval": 300
+}
